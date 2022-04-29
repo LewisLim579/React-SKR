@@ -1,0 +1,20 @@
+{
+	"recommendations": [
+		// https://marketplace.visualstudio.com/items?itemName=igorming.useful-react-snippets
+		"igorming.useful-react-snippets",
+		// https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+		"dsznajder.es7-react-js-snippets",
+		// https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+		"esbenp.prettier-vscode",
+		// https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+		"christian-kohler.path-intellisense",
+		// https://marketplace.visualstudio.com/items?itemName=silvenon.mdx
+		"silvenon.mdx",
+		// https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
+		"davidanson.vscode-markdownlint",
+		// https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+		"dbaeumer.vscode-eslint",
+		// https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv
+		"mikestead.dotenv"
+	]
+}
